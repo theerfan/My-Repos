@@ -14,10 +14,10 @@ A somewhat of a Github CV, if you would.
 
 ## Machine Learning and AI
 
-- (FlameThrower)[https://github.com/theerfan/FlameThrower) - My PyTorch learning playground.
-- (Intelligence)[https://github.com/Erfan-AUT/Intelligence] - My projects and assignments for my undergrad courses in computational and classical artifical intelligence.
-- (DataMining)[https://github.com/Erfan-AUT/DataMining] - My projects and assignments for my undergrad course in Data Mining.
-- (William)[https://github.com/Erfan-AUT/IR-William] - Final project of my undergraduate course in Information Retreival.
+- [FlameThrower](https://github.com/theerfan/FlameThrower) - My PyTorch learning playground.
+- [Intelligence](https://github.com/Erfan-AUT/Intelligence) - My projects and assignments for my undergrad courses in computational and classical artifical intelligence.
+- [DataMining](https://github.com/Erfan-AUT/DataMining) - My projects and assignments for my undergrad course in Data Mining.
+- [William](https://github.com/Erfan-AUT/IR-William) - Final project of my undergraduate course in Information Retreival.
 
 ## Web and Network Development
 
