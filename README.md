@@ -28,6 +28,7 @@ A somewhat of a Github CV, if you would.
 - [Remote-Calculator](https://github.com/theerfan/Remote-Calculator) - A simple remote calculator in Go. 
 - [UrlShortener](https://github.com/theerfan/UrlShortener) - Most probably the laziest implementation of a URL Shortener in Go. 
 - [isAlive-Service](https://github.com/theerfan/isAlive-Service) - A simple Python script to tell you  in Telegram whether or not your website is still up.
+- [egirl-blocker](https://github.com/theerfan/egirl-blocker) - Cleanse your Twitter/X timeline of people who have OF links in their bios.
 
 
 ## Parallel Programming and GPU
