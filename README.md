@@ -5,15 +5,17 @@ A somewhat of a Github CV, if you would.
 
 ## Quantum Computing
 
-- [Q](https://github.com/theerfan/Q) - My attempt at researching Quantum Mechanics & Quantum Computing when I was a junior
-- [QSVT in Qiskit](https://github.com/bartubisgin/QSVTinQiskit-2021-Europe-Hackathon-Winning-Project-) - Quantum Singular Value Transformation in Qiskit (2021 Qiskit Europe Hackathon)
 - [quantum-lazy-training](https://github.com/phanous/quantum-lazy-training) - Implementation and data for me and my collaborators' paper on Quantum Lazy Training.
-- [Maqenta](https://github.com/theerfan/Maqenta) - Generating music using quantum machine learning models (QuGAN and QLSTM).
+- [QSVT in Qiskit](https://github.com/bartubisgin/QSVTinQiskit-2021-Europe-Hackathon-Winning-Project-) - Quantum Singular Value Transformation in Qiskit (2021 Qiskit Europe Hackathon)
 - [QuantumNotes](https://github.com/theerfan/QuantumNotes) - The notes I write and gather to understand every aspect of Quantum theory.
+- [Maqenta](https://github.com/theerfan/Maqenta) - Generating music using quantum machine learning models (QuGAN and QLSTM).
+- [Q](https://github.com/theerfan/Q) - My attempt at researching Quantum Mechanics & Quantum Computing when I was a junior
 - [parameter-shift](https://github.com/theerfan/parameter-shift) - Playing around with different values of shifts for the quantum parameter-shift rule.
 
 ## Machine Learning and AI
 
+- [LaserSTM](https://github.com/theerfan/LaserSTM/) - Simulating non‑linear up‑conversion processes in lasers with LSTMs
+- [Reimage-GPT](https://github.com/theerfan/Reimage-GPT) - Leveraging LLMs to generate better prompts for Stable Diffusion models.
 - [FlameThrower](https://github.com/theerfan/FlameThrower) - My PyTorch learning playground.
 - [Intelligence](https://github.com/Erfan-AUT/Intelligence) - My projects and assignments for my undergrad courses in computational and classical artifical intelligence.
 - [DataMining](https://github.com/Erfan-AUT/DataMining) - My projects and assignments for my undergrad course in Data Mining.
@@ -27,7 +29,7 @@ A somewhat of a Github CV, if you would.
 - [Hospital](https://github.com/Erfan-AUT/IE-Hospital) - Recreating a Hospital's website using pure HTML, CSS and JS and Django.
 - [Remote-Calculator](https://github.com/theerfan/Remote-Calculator) - A simple remote calculator in Go. 
 - [UrlShortener](https://github.com/theerfan/UrlShortener) - Most probably the laziest implementation of a URL Shortener in Go. 
-- [isAlive-Service](https://github.com/theerfan/isAlive-Service) - A simple Python script to tell you  in Telegram whether or not your website is still up.
+- [isAlive-Service](https://github.com/theerfan/isAlive-Service) - A simple Python script to tell you in Telegram whether or not your website is still up.
 - [egirl-blocker](https://github.com/theerfan/egirl-blocker) - Cleanse your Twitter/X timeline of people who have OF links in their bios.
 
 
@@ -36,11 +38,12 @@ A somewhat of a Github CV, if you would.
 - [MultiCore](https://github.com/Erfan-AUT/MultiCore) - My projects and assignments for doing parallel computation using OpenMP and CUDA.
 
 ## Game Development
-- [JTanks](https://github.com/Erfan-AUT/AP-JTanks) - Recreating a Tanks game using Java and it's Swift GUI framework.
+- [JTanks](https://github.com/Erfan-AUT/AP-JTanks) - Recreating a Tanks game using Java and its Swift GUI framework.
 
 ## "Cool" apps
 
 - [Mediabot.py]() - A telegram bot which extracts data from other social media (twitter, instagram, etc) and sends them as telegram messages. #NotPublicYet
+- [thebookofjob]() - Scraping social media for finding job opportunities. #NotPublicForObviousReasons
 - [PersianSubtitleFixer](https://github.com/theerfan/PersianSubtitleFixer) - Fixing encoding issues with Persian (or generally, UTF-8 encoded) subtitles.
 - [QueraStudentExtractor](https://github.com/theerfan/QueraStudentExtractor) - A simple Node.JS app (containing the browser script) with transliteration used to extract a JSON of a Quera course's student details. #TA_Tools
 - [PublicQABot](https://github.com/theerfan/PublicQABot) - A telegram bot which gets questions from users, sends it to a responder and finally sends the question with its answer to a public channel. #TA_Tools
