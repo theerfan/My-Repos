@@ -43,6 +43,7 @@ A somewhat of a Github CV, if you would.
 ## "Cool" apps
 
 - [Mediabot.py]() - A telegram bot which extracts data from other social media (twitter, instagram, etc) and sends them as telegram messages. #NotPublicYet
+- [oXo.pdf](https://github.com/theerfan/oXo.pdf) - A fork of Mozilla's PDF.js to implement additional capabilities such as merging PDFs and cropping pages.
 - [PersianSubtitleFixer](https://github.com/theerfan/PersianSubtitleFixer) - Fixing encoding issues with Persian (or generally, UTF-8 encoded) subtitles.
 - [QueraStudentExtractor](https://github.com/theerfan/QueraStudentExtractor) - A simple Node.JS app (containing the browser script) with transliteration used to extract a JSON of a Quera course's student details. #TA_Tools
 - [PublicQABot](https://github.com/theerfan/PublicQABot) - A telegram bot which gets questions from users, sends it to a responder and finally sends the question with its answer to a public channel. #TA_Tools
